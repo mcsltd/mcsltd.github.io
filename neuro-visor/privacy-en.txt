@@ -2,9 +2,9 @@ Personal data processing policy
 
 DEFINITIONS AND TERMS
 The application – Mobile application NEUROvisor for iOS, android
-The product – NeoRec 21 transcranial electrical stimulator
+The product – NeoRec 21
 The company - Medical Computer Systems Ltd.
-User or Doctor — a person using the Mobile application Tes4me Doctor 
+User or Doctor — a person using the Mobile application NEUROvisor 
 E-mail — info@mks.ru.
 
 Introduction
