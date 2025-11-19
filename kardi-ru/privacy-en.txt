@@ -1,0 +1,50 @@
+Edition 1, February 16, 2021
+PERSONAL DATA PROCESSING AGREEMENT
+
+This Personal Data Processing Agreement (hereinafter, the “Agreement”) is developed in accordance with the legislation of the Russian Federation.
+
+By agreeing to this Agreement and submitting their data on the website kardi.ru (hereinafter, the “Website”) by filling out the fields of online forms (registration), the User expresses their consent to the processing of personal data and its transfer to the personal data processing operator.
+The operator of personal data processing is Medical Computer Systems LLC,
+TIN 7735039737, registered and actual address: 124460, Moscow, Zelenograd, Proezd 4922, Building 4, Structure 2, Floor 4, Room 72 (hereinafter, the “Operator”).
+
+The processing of the User’s personal data is carried out under the following conditions.
+
+The User:
+• confirms and acknowledges that they have carefully and fully read this Agreement and the conditions for processing their personal data indicated in the fields of online registration forms, and that the text of the Agreement and the conditions for personal data processing are clear to them;
+• confirms that all data provided by them belong personally to them or to their family members;
+• expresses their Consent to the processing of personal data without reservations or limitations (hereinafter, “Consent”). The moment of acceptance of the Consent is the User’s first completion of an online registration data entry form;
+• confirms that by giving Consent they act freely, of their own will and in their own interest or in the interests of their family members.
+
+This Consent is given for the processing of personal data both without the use of automation tools and with their use.
+
+Consent is given for the processing of the following personal data of the User:
+• Last name, first name, patronymic;
+• Gender;
+• Date of birth;
+• Phone number, email address;
+• Country, region, city of residence;
+• Medical data, including but not limited to: ECG, blood pressure, diagnoses, health status notes, and others.
+
+The purpose of processing personal data is their storage and use, including:
+• Responding to User inquiries;
+• Ensuring the User’s interaction with the Operator’s Website;
+• Ensuring effective self-monitoring of ECG, blood pressure, and other biological parameters, and automatic or non-automatic evaluation of the dynamics (changes over time) of indicators;
+• Preparation of documents for the assessment of the User’s or their family members’ medical data by medical personnel.
+
+The Operator does not provide medical services; medical services are provided by specialized medical organizations on the basis of licenses.
+
+By accepting the terms of this Agreement, the User expresses their interest and gives full consent that the processing of their personal data includes the following actions: collection, recording, systematization, accumulation, storage, clarification (updating, modification), retrieval, use, transfer (providing access), depersonalization, blocking, deletion, destruction of personal data.
+
+The User’s Consent to the processing of personal data is specific, informed, and conscious.
+
+Consent is valid indefinitely from the moment the data is provided and may be revoked by the User by submitting a written request to the Operator specifying the data defined in Article 14 of Federal Law No. 152-FZ “On Personal Data,” at the address indicated in the preamble of this Agreement.
+
+In case of revocation of Consent by the User, the Operator has the right to continue processing personal data without the User’s consent if grounds exist as specified in paragraphs 2–11 of Part 1 of Article 6, Part 2 of Article 10, and Part 2 of Article 11 of Federal Law No. 152-FZ “On Personal Data.”
+
+During personal data processing, the Operator may carry out: collection, recording, systematization, accumulation, storage, clarification (updating, modification), retrieval, use, transfer (distribution, provision, access), depersonalization, blocking, deletion, destruction of the User’s personal data, as well as automatic and non-automatic processing of medical data for the purpose of preparing documents for medical personnel.
+
+During depersonalization, the following data is removed: last name, first name, patronymic, country, city, and minor random changes may be introduced into the date of birth. Depersonalized data may be used for scientific medical research and publication in specialized medical sources.
+
+The User’s personal data is not transferred to third parties, except for persons who process personal data on behalf of and under the instruction of the Operator, as well as cases established by law.
+
+The Operator has the right to make changes to this Agreement at any time. When changes are made, the latest revision specifies the date of the last update. The new version of the Agreement enters into force from the moment it is posted on the Website unless otherwise provided by its new version.
